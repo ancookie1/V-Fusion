@@ -1,0 +1,12 @@
+Own Creations:
+[1.21.9] Better Vanilla
+[1.20.1] Chillig Überleben
+
+Other Packs:
+[1.21.9] Animated Ores v0.6.6
+[1.20.6] Animated Items
+[1.20.2] Obvious Wither Heart
+[1.26.1] Immersive Interfaces v0.8.2
+[1.26.1] Tasty Items v1.4.1
+[1.26.3] Beatiful Enchanted Books v9.0.0
+[1.26.3] Rethoughted Infested Stones
